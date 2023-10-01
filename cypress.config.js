@@ -14,8 +14,8 @@ module.exports = defineConfig({
 const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
-  projectId: '3m1mwk',
-  pageLoadTimeout: 60000, // Aumenta el tiempo de carga de página a 120 segundos (2 minutos)
+  projectId: 'si6pc5',
+  pageLoadTimeout: 120000, // Aumenta el tiempo de carga de página a 120 segundos (2 minutos)
   
   e2e: {
 
